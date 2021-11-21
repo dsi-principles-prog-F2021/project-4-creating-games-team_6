@@ -99,3 +99,8 @@ This project will be due 11/4 @ 11:59pm.
 ## Feedback/Grades
 
 The TA will "grade" the project by sending feedback via the team's repo. This does not count towards your final grade and will only act as helpful feedback in building your programming skills, however the project will not be deemed complete unless the above project requirements are complete.
+
+# Feedback
+		
+![image](https://user-images.githubusercontent.com/69755309/140770033-0fb0247f-a60e-4ef5-a308-6f01122079a0.png)
+
